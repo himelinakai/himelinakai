@@ -1,5 +1,6 @@
-## 👋 Hi there, I'm Melina Kai Kwarcinski!
+## About Me
 
+- 👋 Hi there, I'm Melina Kai Kwarcinski!
 - 🌱 I am a Computer Engineering student at San Diego State University.
 <!--
 **himelinakai/himelinakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
